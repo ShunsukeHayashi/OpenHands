@@ -37,3 +37,9 @@ for agent in all_microagents.values():
     )
 
     Agent.register(name, anon_class)
+
+# Import Shinobi Agent
+try:
+    from openhands.agenthub.shinobi_agent import ShinobiAgent
+except ImportError:
+    pass
