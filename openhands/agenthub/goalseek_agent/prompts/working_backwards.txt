@@ -1,0 +1,30 @@
+# Working Backwards Analysis
+
+## Goal State
+{goal_state}
+
+## Current State
+{current_state}
+
+## Progress So Far
+{current_progress}
+
+## Step-Back Analysis
+
+1. Looking at our goal, what is the *immediate prerequisite state* that must exist right before we achieve the final result?
+
+2. What tools or information do we need to move from that prerequisite state to the goal state?
+
+3. Continue working backwards - what must be true before that prerequisite can be achieved?
+
+4. Have we reached actions that can be taken from our current state? If not, continue the step-back questioning.
+
+5. Based on this analysis, what is the next concrete action to take using available tools?
+
+## Next Action Decision
+
+Given the available tools and our current position in the plan, what is the most appropriate next action? Be specific about:
+- Which tool to use
+- What parameters to provide
+- What information to gather
+- How this advances our plan

@@ -1,0 +1,21 @@
+# Execution Status
+
+## Goal: {goal}
+
+## Plan Steps:
+{plan_steps}
+
+## Current Position:
+{current_step}
+
+## Completed Steps:
+{completed_steps}
+
+## Pending Steps:
+{pending_steps}
+
+## Observations:
+{observations}
+
+## Adjustments Needed:
+{adjustments}

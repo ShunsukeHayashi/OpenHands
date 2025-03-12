@@ -1,0 +1,25 @@
+# Comprehensive Working Backwards Plan
+
+## Final Goal
+{goal}
+
+## Current State
+{current_state}
+
+## Working Backwards Analysis
+{backwards_analysis}
+
+## Forward Execution Plan
+{forward_plan}
+
+## Tools Required
+{tools_required}
+
+## Success Criteria
+{success_criteria}
+
+## Potential Challenges
+{potential_challenges}
+
+## Monitoring Approach
+{monitoring_approach}

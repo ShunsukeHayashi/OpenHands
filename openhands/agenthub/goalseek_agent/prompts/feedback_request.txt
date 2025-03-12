@@ -1,0 +1,20 @@
+# Feedback Request
+
+I've reached a point where human input would be valuable:
+
+## Current Goal:
+{goal}
+
+## Plan So Far:
+{plan}
+
+## Current Challenge:
+{challenge}
+
+## Specific Questions:
+{questions}
+
+## Possible Paths Forward:
+{options}
+
+What direction would you like me to take?

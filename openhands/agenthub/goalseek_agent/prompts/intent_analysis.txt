@@ -1,0 +1,40 @@
+# Intent Analysis Framework
+
+## Current User Input
+{user_input}
+
+## Intent Analysis Process
+
+1. What is the user explicitly asking for?
+
+2. What is the implicit need or want behind the user's request?
+
+3. What is the core intent that needs to be addressed?
+
+4. What specific goal would satisfy this intent?
+
+## Intent Formalization
+
+[Input] → [User Intent] → [Intent]( , , , , , , , , , , , , , )
+
+## Goal Definition
+
+[Fixed User want intent] = {fixed_goal}
+
+## Task Breakdown
+
+Achieve Goal == Need Tasks
+[Goal]=[Tasks](
+  Task 1: {task_1},
+  Task 2: {task_2},
+  Task 3: {task_3},
+  ...
+)
+
+## Execution Requirements
+
+To execute these tasks, we need:
+- Appropriate prompts for each task
+- Required tools: {required_tools}
+- Agent assignment: {agent_assignment}
+- Feedback loop mechanism: {feedback_mechanism}

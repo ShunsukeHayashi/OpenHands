@@ -1,0 +1,19 @@
+# Tool Execution Error
+
+## Tool Used:
+{tool_name}
+
+## Attempted Operation:
+{operation}
+
+## Error Encountered:
+{error}
+
+## Impact on Plan:
+{impact}
+
+## Recommended Recovery:
+{recovery_steps}
+
+## Question for User:
+{user_question}
